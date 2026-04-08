@@ -27,6 +27,11 @@ $ git clone https://github.com/rexwho11/rexwho-Command-Center-.git
 $ cd rexwho-command-center
 $ chmod +x rexwho.sh
 $ ./rexwho.sh
+
+but before using the toolkit u gotta install the tools
+just simply selct number  10
+
+boom now the toolkit is ready go for the best 
 ```
 
 
