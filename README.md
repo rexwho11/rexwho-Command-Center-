@@ -22,12 +22,12 @@ happy hacking !! @rexwho
 
 
 ##  comand steps for absolutely begniner
-
+```
 $ git clone https://github.com/rexwho11/rexwho-Command-Center-.git
 $ cd rexwho-command-center
 $ chmod +x rexwho.sh
 $ ./rexwho.sh
-
+```
 
 
 ## Features 
